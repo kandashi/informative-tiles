@@ -1,0 +1,9 @@
+.info-tiles .info-text{
+    background: url(../ui/parchment.jpg) repeat;  
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px;
+    word-break: break-all;
+
+
+}
